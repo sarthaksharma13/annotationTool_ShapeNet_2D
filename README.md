@@ -1,6 +1,6 @@
 # Annotation tool for 2D Model annotation from ShapeNet
 
-PFA the folder that contains the requisite code and data for annotating the rendered ShapeNet models. The folder CarAnnotaion36Keypoint contains the following:
+Here is the folder that contains the requisite code and data for annotating the rendered ShapeNet models. The folder CarAnnotaion36Keypoint contains the following:
 
 1. 02958343              :  Folder containing the ShapeNet models (car class, set the appropriate path)
 2. annotate_cars.m  :  Then main matlab script that you would run to annotate 
